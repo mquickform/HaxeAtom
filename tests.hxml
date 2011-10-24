@@ -1,0 +1,11 @@
+-main tests.AtomTester
+-cp .
+-neko AtomTester.n
+-debug
+
+--next
+-main tests.AtomTester
+-swf AtomTester.swf
+-swf-version 10
+-swf-header 400:525:24:FFFFFF
+-debug
